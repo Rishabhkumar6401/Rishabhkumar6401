@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 537 32" width="537" height="32" role="img" aria-label="Backend engineer. 3+ years in production. Currently on the backend of an AI product.">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:21px;font-weight:600;fill:#2DA44E}
+tspan{opacity:0;animation:13.94s steps(1,end) infinite}
+.cursor{fill:#2DA44E;animation:cursor 13.94s steps(1,end) infinite}
+@keyframes c0_0{0%{opacity:0}0.466%{opacity:1}23.780%{opacity:0}100%{opacity:0}}
+@keyframes c0_1{0%{opacity:0}0.933%{opacity:1}23.565%{opacity:0}100%{opacity:0}}
+@keyframes c0_2{0%{opacity:0}1.399%{opacity:1}23.350%{opacity:0}100%{opacity:0}}
+@keyframes c0_3{0%{opacity:0}1.865%{opacity:1}23.135%{opacity:0}100%{opacity:0}}
+@keyframes c0_4{0%{opacity:0}2.331%{opacity:1}22.920%{opacity:0}100%{opacity:0}}
+@keyframes c0_5{0%{opacity:0}2.798%{opacity:1}22.704%{opacity:0}100%{opacity:0}}
+@keyframes c0_6{0%{opacity:0}3.264%{opacity:1}22.489%{opacity:0}100%{opacity:0}}
+@keyframes c0_7{0%{opacity:0}3.730%{opacity:1}22.274%{opacity:0}100%{opacity:0}}
+@keyframes c0_8{0%{opacity:0}4.197%{opacity:1}22.059%{opacity:0}100%{opacity:0}}
+@keyframes c0_9{0%{opacity:0}4.663%{opacity:1}21.844%{opacity:0}100%{opacity:0}}
+@keyframes c0_10{0%{opacity:0}5.129%{opacity:1}21.628%{opacity:0}100%{opacity:0}}
+@keyframes c0_11{0%{opacity:0}5.595%{opacity:1}21.413%{opacity:0}100%{opacity:0}}
+@keyframes c0_12{0%{opacity:0}6.062%{opacity:1}21.198%{opacity:0}100%{opacity:0}}
+@keyframes c0_13{0%{opacity:0}6.528%{opacity:1}20.983%{opacity:0}100%{opacity:0}}
+@keyframes c0_14{0%{opacity:0}6.994%{opacity:1}20.768%{opacity:0}100%{opacity:0}}
+@keyframes c0_15{0%{opacity:0}7.461%{opacity:1}20.552%{opacity:0}100%{opacity:0}}
+@keyframes c0_16{0%{opacity:0}7.927%{opacity:1}20.337%{opacity:0}100%{opacity:0}}
+@keyframes c1_0{0%{opacity:0}26.758%{opacity:1}54.161%{opacity:0}100%{opacity:0}}
+@keyframes c1_1{0%{opacity:0}27.224%{opacity:1}53.945%{opacity:0}100%{opacity:0}}
+@keyframes c1_2{0%{opacity:0}27.690%{opacity:1}53.730%{opacity:0}100%{opacity:0}}
+@keyframes c1_3{0%{opacity:0}28.156%{opacity:1}53.515%{opacity:0}100%{opacity:0}}
+@keyframes c1_4{0%{opacity:0}28.623%{opacity:1}53.300%{opacity:0}100%{opacity:0}}
+@keyframes c1_5{0%{opacity:0}29.089%{opacity:1}53.085%{opacity:0}100%{opacity:0}}
+@keyframes c1_6{0%{opacity:0}29.555%{opacity:1}52.869%{opacity:0}100%{opacity:0}}
+@keyframes c1_7{0%{opacity:0}30.022%{opacity:1}52.654%{opacity:0}100%{opacity:0}}
+@keyframes c1_8{0%{opacity:0}30.488%{opacity:1}52.439%{opacity:0}100%{opacity:0}}
+@keyframes c1_9{0%{opacity:0}30.954%{opacity:1}52.224%{opacity:0}100%{opacity:0}}
+@keyframes c1_10{0%{opacity:0}31.420%{opacity:1}52.009%{opacity:0}100%{opacity:0}}
+@keyframes c1_11{0%{opacity:0}31.887%{opacity:1}51.793%{opacity:0}100%{opacity:0}}
+@keyframes c1_12{0%{opacity:0}32.353%{opacity:1}51.578%{opacity:0}100%{opacity:0}}
+@keyframes c1_13{0%{opacity:0}32.819%{opacity:1}51.363%{opacity:0}100%{opacity:0}}
+@keyframes c1_14{0%{opacity:0}33.286%{opacity:1}51.148%{opacity:0}100%{opacity:0}}
+@keyframes c1_15{0%{opacity:0}33.752%{opacity:1}50.933%{opacity:0}100%{opacity:0}}
+@keyframes c1_16{0%{opacity:0}34.218%{opacity:1}50.717%{opacity:0}100%{opacity:0}}
+@keyframes c1_17{0%{opacity:0}34.684%{opacity:1}50.502%{opacity:0}100%{opacity:0}}
+@keyframes c1_18{0%{opacity:0}35.151%{opacity:1}50.287%{opacity:0}100%{opacity:0}}
+@keyframes c1_19{0%{opacity:0}35.617%{opacity:1}50.072%{opacity:0}100%{opacity:0}}
+@keyframes c1_20{0%{opacity:0}36.083%{opacity:1}49.857%{opacity:0}100%{opacity:0}}
+@keyframes c1_21{0%{opacity:0}36.549%{opacity:1}49.641%{opacity:0}100%{opacity:0}}
+@keyframes c1_22{0%{opacity:0}37.016%{opacity:1}49.426%{opacity:0}100%{opacity:0}}
+@keyframes c2_0{0%{opacity:0}57.138%{opacity:1}97.489%{opacity:0}100%{opacity:0}}
+@keyframes c2_1{0%{opacity:0}57.604%{opacity:1}97.274%{opacity:0}100%{opacity:0}}
+@keyframes c2_2{0%{opacity:0}58.070%{opacity:1}97.059%{opacity:0}100%{opacity:0}}
+@keyframes c2_3{0%{opacity:0}58.537%{opacity:1}96.844%{opacity:0}100%{opacity:0}}
+@keyframes c2_4{0%{opacity:0}59.003%{opacity:1}96.628%{opacity:0}100%{opacity:0}}
+@keyframes c2_5{0%{opacity:0}59.469%{opacity:1}96.413%{opacity:0}100%{opacity:0}}
+@keyframes c2_6{0%{opacity:0}59.935%{opacity:1}96.198%{opacity:0}100%{opacity:0}}
+@keyframes c2_7{0%{opacity:0}60.402%{opacity:1}95.983%{opacity:0}100%{opacity:0}}
+@keyframes c2_8{0%{opacity:0}60.868%{opacity:1}95.768%{opacity:0}100%{opacity:0}}
+@keyframes c2_9{0%{opacity:0}61.334%{opacity:1}95.552%{opacity:0}100%{opacity:0}}
+@keyframes c2_10{0%{opacity:0}61.801%{opacity:1}95.337%{opacity:0}100%{opacity:0}}
+@keyframes c2_11{0%{opacity:0}62.267%{opacity:1}95.122%{opacity:0}100%{opacity:0}}
+@keyframes c2_12{0%{opacity:0}62.733%{opacity:1}94.907%{opacity:0}100%{opacity:0}}
+@keyframes c2_13{0%{opacity:0}63.199%{opacity:1}94.692%{opacity:0}100%{opacity:0}}
+@keyframes c2_14{0%{opacity:0}63.666%{opacity:1}94.476%{opacity:0}100%{opacity:0}}
+@keyframes c2_15{0%{opacity:0}64.132%{opacity:1}94.261%{opacity:0}100%{opacity:0}}
+@keyframes c2_16{0%{opacity:0}64.598%{opacity:1}94.046%{opacity:0}100%{opacity:0}}
+@keyframes c2_17{0%{opacity:0}65.065%{opacity:1}93.831%{opacity:0}100%{opacity:0}}
+@keyframes c2_18{0%{opacity:0}65.531%{opacity:1}93.615%{opacity:0}100%{opacity:0}}
+@keyframes c2_19{0%{opacity:0}65.997%{opacity:1}93.400%{opacity:0}100%{opacity:0}}
+@keyframes c2_20{0%{opacity:0}66.463%{opacity:1}93.185%{opacity:0}100%{opacity:0}}
+@keyframes c2_21{0%{opacity:0}66.930%{opacity:1}92.970%{opacity:0}100%{opacity:0}}
+@keyframes c2_22{0%{opacity:0}67.396%{opacity:1}92.755%{opacity:0}100%{opacity:0}}
+@keyframes c2_23{0%{opacity:0}67.862%{opacity:1}92.539%{opacity:0}100%{opacity:0}}
+@keyframes c2_24{0%{opacity:0}68.329%{opacity:1}92.324%{opacity:0}100%{opacity:0}}
+@keyframes c2_25{0%{opacity:0}68.795%{opacity:1}92.109%{opacity:0}100%{opacity:0}}
+@keyframes c2_26{0%{opacity:0}69.261%{opacity:1}91.894%{opacity:0}100%{opacity:0}}
+@keyframes c2_27{0%{opacity:0}69.727%{opacity:1}91.679%{opacity:0}100%{opacity:0}}
+@keyframes c2_28{0%{opacity:0}70.194%{opacity:1}91.463%{opacity:0}100%{opacity:0}}
+@keyframes c2_29{0%{opacity:0}70.660%{opacity:1}91.248%{opacity:0}100%{opacity:0}}
+@keyframes c2_30{0%{opacity:0}71.126%{opacity:1}91.033%{opacity:0}100%{opacity:0}}
+@keyframes c2_31{0%{opacity:0}71.593%{opacity:1}90.818%{opacity:0}100%{opacity:0}}
+@keyframes c2_32{0%{opacity:0}72.059%{opacity:1}90.603%{opacity:0}100%{opacity:0}}
+@keyframes c2_33{0%{opacity:0}72.525%{opacity:1}90.387%{opacity:0}100%{opacity:0}}
+@keyframes c2_34{0%{opacity:0}72.991%{opacity:1}90.172%{opacity:0}100%{opacity:0}}
+@keyframes c2_35{0%{opacity:0}73.458%{opacity:1}89.957%{opacity:0}100%{opacity:0}}
+@keyframes c2_36{0%{opacity:0}73.924%{opacity:1}89.742%{opacity:0}100%{opacity:0}}
+@keyframes c2_37{0%{opacity:0}74.390%{opacity:1}89.527%{opacity:0}100%{opacity:0}}
+@keyframes c2_38{0%{opacity:0}74.857%{opacity:1}89.311%{opacity:0}100%{opacity:0}}
+@keyframes c2_39{0%{opacity:0}75.323%{opacity:1}89.096%{opacity:0}100%{opacity:0}}
+@keyframes c2_40{0%{opacity:0}75.789%{opacity:1}88.881%{opacity:0}100%{opacity:0}}
+@keyframes c2_41{0%{opacity:0}76.255%{opacity:1}88.666%{opacity:0}100%{opacity:0}}
+@keyframes cursor{0%{transform:translateX(157.5px)}0.000%{transform:translateX(157.5px)}0.466%{transform:translateX(170.1px)}0.933%{transform:translateX(182.7px)}1.399%{transform:translateX(195.3px)}1.865%{transform:translateX(207.9px)}2.331%{transform:translateX(220.5px)}2.798%{transform:translateX(233.1px)}3.264%{transform:translateX(245.7px)}3.730%{transform:translateX(258.3px)}4.197%{transform:translateX(270.9px)}4.663%{transform:translateX(283.5px)}5.129%{transform:translateX(296.1px)}5.595%{transform:translateX(308.7px)}6.062%{transform:translateX(321.3px)}6.528%{transform:translateX(333.9px)}6.994%{transform:translateX(346.5px)}7.461%{transform:translateX(359.1px)}7.927%{transform:translateX(371.7px)}20.337%{transform:translateX(359.1px)}20.552%{transform:translateX(346.5px)}20.768%{transform:translateX(333.9px)}20.983%{transform:translateX(321.3px)}21.198%{transform:translateX(308.7px)}21.413%{transform:translateX(296.1px)}21.628%{transform:translateX(283.5px)}21.844%{transform:translateX(270.9px)}22.059%{transform:translateX(258.3px)}22.274%{transform:translateX(245.7px)}22.489%{transform:translateX(233.1px)}22.704%{transform:translateX(220.5px)}22.920%{transform:translateX(207.9px)}23.135%{transform:translateX(195.3px)}23.350%{transform:translateX(182.7px)}23.565%{transform:translateX(170.1px)}23.780%{transform:translateX(157.5px)}26.291%{transform:translateX(119.7px)}26.758%{transform:translateX(132.3px)}27.224%{transform:translateX(144.9px)}27.690%{transform:translateX(157.5px)}28.156%{transform:translateX(170.1px)}28.623%{transform:translateX(182.7px)}29.089%{transform:translateX(195.3px)}29.555%{transform:translateX(207.9px)}30.022%{transform:translateX(220.5px)}30.488%{transform:translateX(233.1px)}30.954%{transform:translateX(245.7px)}31.420%{transform:translateX(258.3px)}31.887%{transform:translateX(270.9px)}32.353%{transform:translateX(283.5px)}32.819%{transform:translateX(296.1px)}33.286%{transform:translateX(308.7px)}33.752%{transform:translateX(321.3px)}34.218%{transform:translateX(333.9px)}34.684%{transform:translateX(346.5px)}35.151%{transform:translateX(359.1px)}35.617%{transform:translateX(371.7px)}36.083%{transform:translateX(384.3px)}36.549%{transform:translateX(396.9px)}37.016%{transform:translateX(409.5px)}49.426%{transform:translateX(396.9px)}49.641%{transform:translateX(384.3px)}49.857%{transform:translateX(371.7px)}50.072%{transform:translateX(359.1px)}50.287%{transform:translateX(346.5px)}50.502%{transform:translateX(333.9px)}50.717%{transform:translateX(321.3px)}50.933%{transform:translateX(308.7px)}51.148%{transform:translateX(296.1px)}51.363%{transform:translateX(283.5px)}51.578%{transform:translateX(270.9px)}51.793%{transform:translateX(258.3px)}52.009%{transform:translateX(245.7px)}52.224%{transform:translateX(233.1px)}52.439%{transform:translateX(220.5px)}52.654%{transform:translateX(207.9px)}52.869%{transform:translateX(195.3px)}53.085%{transform:translateX(182.7px)}53.300%{transform:translateX(170.1px)}53.515%{transform:translateX(157.5px)}53.730%{transform:translateX(144.9px)}53.945%{transform:translateX(132.3px)}54.161%{transform:translateX(119.7px)}56.671%{transform:translateX(0.0px)}57.138%{transform:translateX(12.6px)}57.604%{transform:translateX(25.2px)}58.070%{transform:translateX(37.8px)}58.537%{transform:translateX(50.4px)}59.003%{transform:translateX(63.0px)}59.469%{transform:translateX(75.6px)}59.935%{transform:translateX(88.2px)}60.402%{transform:translateX(100.8px)}60.868%{transform:translateX(113.4px)}61.334%{transform:translateX(126.0px)}61.801%{transform:translateX(138.6px)}62.267%{transform:translateX(151.2px)}62.733%{transform:translateX(163.8px)}63.199%{transform:translateX(176.4px)}63.666%{transform:translateX(189.0px)}64.132%{transform:translateX(201.6px)}64.598%{transform:translateX(214.2px)}65.065%{transform:translateX(226.8px)}65.531%{transform:translateX(239.4px)}65.997%{transform:translateX(252.0px)}66.463%{transform:translateX(264.6px)}66.930%{transform:translateX(277.2px)}67.396%{transform:translateX(289.8px)}67.862%{transform:translateX(302.4px)}68.329%{transform:translateX(315.0px)}68.795%{transform:translateX(327.6px)}69.261%{transform:translateX(340.2px)}69.727%{transform:translateX(352.8px)}70.194%{transform:translateX(365.4px)}70.660%{transform:translateX(378.0px)}71.126%{transform:translateX(390.6px)}71.593%{transform:translateX(403.2px)}72.059%{transform:translateX(415.8px)}72.525%{transform:translateX(428.4px)}72.991%{transform:translateX(441.0px)}73.458%{transform:translateX(453.6px)}73.924%{transform:translateX(466.2px)}74.390%{transform:translateX(478.8px)}74.857%{transform:translateX(491.4px)}75.323%{transform:translateX(504.0px)}75.789%{transform:translateX(516.6px)}76.255%{transform:translateX(529.2px)}88.666%{transform:translateX(516.6px)}88.881%{transform:translateX(504.0px)}89.096%{transform:translateX(491.4px)}89.311%{transform:translateX(478.8px)}89.527%{transform:translateX(466.2px)}89.742%{transform:translateX(453.6px)}89.957%{transform:translateX(441.0px)}90.172%{transform:translateX(428.4px)}90.387%{transform:translateX(415.8px)}90.603%{transform:translateX(403.2px)}90.818%{transform:translateX(390.6px)}91.033%{transform:translateX(378.0px)}91.248%{transform:translateX(365.4px)}91.463%{transform:translateX(352.8px)}91.679%{transform:translateX(340.2px)}91.894%{transform:translateX(327.6px)}92.109%{transform:translateX(315.0px)}92.324%{transform:translateX(302.4px)}92.539%{transform:translateX(289.8px)}92.755%{transform:translateX(277.2px)}92.970%{transform:translateX(264.6px)}93.185%{transform:translateX(252.0px)}93.400%{transform:translateX(239.4px)}93.615%{transform:translateX(226.8px)}93.831%{transform:translateX(214.2px)}94.046%{transform:translateX(201.6px)}94.261%{transform:translateX(189.0px)}94.476%{transform:translateX(176.4px)}94.692%{transform:translateX(163.8px)}94.907%{transform:translateX(151.2px)}95.122%{transform:translateX(138.6px)}95.337%{transform:translateX(126.0px)}95.552%{transform:translateX(113.4px)}95.768%{transform:translateX(100.8px)}95.983%{transform:translateX(88.2px)}96.198%{transform:translateX(75.6px)}96.413%{transform:translateX(63.0px)}96.628%{transform:translateX(50.4px)}96.844%{transform:translateX(37.8px)}97.059%{transform:translateX(25.2px)}97.274%{transform:translateX(12.6px)}97.489%{transform:translateX(0.0px)}}
+@media (prefers-reduced-motion:reduce){tspan{animation:none}tspan.first{opacity:1}.cursor{display:none}}
+</style>
+<text y="23"><tspan x="157.5" class="first" style="animation-name:c0_0">B</tspan><tspan x="170.1" class="first" style="animation-name:c0_1">a</tspan><tspan x="182.7" class="first" style="animation-name:c0_2">c</tspan><tspan x="195.3" class="first" style="animation-name:c0_3">k</tspan><tspan x="207.9" class="first" style="animation-name:c0_4">e</tspan><tspan x="220.5" class="first" style="animation-name:c0_5">n</tspan><tspan x="233.1" class="first" style="animation-name:c0_6">d</tspan><tspan x="258.3" class="first" style="animation-name:c0_8">e</tspan><tspan x="270.9" class="first" style="animation-name:c0_9">n</tspan><tspan x="283.5" class="first" style="animation-name:c0_10">g</tspan><tspan x="296.1" class="first" style="animation-name:c0_11">i</tspan><tspan x="308.7" class="first" style="animation-name:c0_12">n</tspan><tspan x="321.3" class="first" style="animation-name:c0_13">e</tspan><tspan x="333.9" class="first" style="animation-name:c0_14">e</tspan><tspan x="346.5" class="first" style="animation-name:c0_15">r</tspan><tspan x="359.1" class="first" style="animation-name:c0_16">.</tspan><tspan x="119.7" style="animation-name:c1_0">3</tspan><tspan x="132.3" style="animation-name:c1_1">+</tspan><tspan x="157.5" style="animation-name:c1_3">y</tspan><tspan x="170.1" style="animation-name:c1_4">e</tspan><tspan x="182.7" style="animation-name:c1_5">a</tspan><tspan x="195.3" style="animation-name:c1_6">r</tspan><tspan x="207.9" style="animation-name:c1_7">s</tspan><tspan x="233.1" style="animation-name:c1_9">i</tspan><tspan x="245.7" style="animation-name:c1_10">n</tspan><tspan x="270.9" style="animation-name:c1_12">p</tspan><tspan x="283.5" style="animation-name:c1_13">r</tspan><tspan x="296.1" style="animation-name:c1_14">o</tspan><tspan x="308.7" style="animation-name:c1_15">d</tspan><tspan x="321.3" style="animation-name:c1_16">u</tspan><tspan x="333.9" style="animation-name:c1_17">c</tspan><tspan x="346.5" style="animation-name:c1_18">t</tspan><tspan x="359.1" style="animation-name:c1_19">i</tspan><tspan x="371.7" style="animation-name:c1_20">o</tspan><tspan x="384.3" style="animation-name:c1_21">n</tspan><tspan x="396.9" style="animation-name:c1_22">.</tspan><tspan x="0.0" style="animation-name:c2_0">C</tspan><tspan x="12.6" style="animation-name:c2_1">u</tspan><tspan x="25.2" style="animation-name:c2_2">r</tspan><tspan x="37.8" style="animation-name:c2_3">r</tspan><tspan x="50.4" style="animation-name:c2_4">e</tspan><tspan x="63.0" style="animation-name:c2_5">n</tspan><tspan x="75.6" style="animation-name:c2_6">t</tspan><tspan x="88.2" style="animation-name:c2_7">l</tspan><tspan x="100.8" style="animation-name:c2_8">y</tspan><tspan x="126.0" style="animation-name:c2_10">o</tspan><tspan x="138.6" style="animation-name:c2_11">n</tspan><tspan x="163.8" style="animation-name:c2_13">t</tspan><tspan x="176.4" style="animation-name:c2_14">h</tspan><tspan x="189.0" style="animation-name:c2_15">e</tspan><tspan x="214.2" style="animation-name:c2_17">b</tspan><tspan x="226.8" style="animation-name:c2_18">a</tspan><tspan x="239.4" style="animation-name:c2_19">c</tspan><tspan x="252.0" style="animation-name:c2_20">k</tspan><tspan x="264.6" style="animation-name:c2_21">e</tspan><tspan x="277.2" style="animation-name:c2_22">n</tspan><tspan x="289.8" style="animation-name:c2_23">d</tspan><tspan x="315.0" style="animation-name:c2_25">o</tspan><tspan x="327.6" style="animation-name:c2_26">f</tspan><tspan x="352.8" style="animation-name:c2_28">a</tspan><tspan x="365.4" style="animation-name:c2_29">n</tspan><tspan x="390.6" style="animation-name:c2_31">A</tspan><tspan x="403.2" style="animation-name:c2_32">I</tspan><tspan x="428.4" style="animation-name:c2_34">p</tspan><tspan x="441.0" style="animation-name:c2_35">r</tspan><tspan x="453.6" style="animation-name:c2_36">o</tspan><tspan x="466.2" style="animation-name:c2_37">d</tspan><tspan x="478.8" style="animation-name:c2_38">u</tspan><tspan x="491.4" style="animation-name:c2_39">c</tspan><tspan x="504.0" style="animation-name:c2_40">t</tspan><tspan x="516.6" style="animation-name:c2_41">.</tspan></text>
+<rect class="cursor" x="1" y="5" width="2.5" height="23" rx="1"/>
+</svg>
